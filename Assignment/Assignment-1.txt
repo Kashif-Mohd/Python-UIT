@@ -1,0 +1,4 @@
+100 Python exercise:
+
+
+Employee list by User Input, then check with our list is exist or not then check with employee category "Good or Bad"
